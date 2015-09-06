@@ -13,7 +13,7 @@ flask_admin/tests/tmp
 dist/*
 make.bat
 venv
-*.sublime-*
+#*.sublime-*
 .coverage
 __pycache__
 examples/sqla-inline/static
