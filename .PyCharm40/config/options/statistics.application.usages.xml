@@ -1,0 +1,43 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="JavaScript versions">
+      <project id="pycharm_demo" values="DEFAULT" collectionTime="1441788191544" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="pycharm_demo" values="PythonConfigurationType" collectionTime="1441788191352" />
+    </group>
+    <group name="py-interpreter">
+      <project id="pycharm_demo" values="Python 2.7.6" collectionTime="1441788191366" />
+    </group>
+    <group name="file-type">
+      <project id="pycharm_demo" values="UNKNOWN,CSS,Python,HTML,XML,PLAIN_TEXT,JavaScript,Images" collectionTime="1441788191362" />
+    </group>
+    <group name="module type">
+      <project id="pycharm_demo" values="PYTHON_MODULE" collectionTime="1441788191351" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="pycharm_demo" values="Project,Project" collectionTime="1441788191544" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="2" />
+      <entry feature="NewDirectoryProjectAction.Flask" count="1" />
+      <entry feature="execute.PythonConfigurationType.Run" count="9" />
+      <entry feature="ide.settings.Appearance" count="2" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="9" />
+      <entry feature="ide.settings.Console_Font" count="2" />
+      <entry feature="ide.settings.File_Encodings" count="4" />
+      <entry feature="ide.settings.Font" count="7" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.GitHub" count="2" />
+      <entry feature="ide.settings.Inspections" count="1" />
+      <entry feature="ide.settings.Keymap" count="1" />
+      <entry feature="ide.settings.Python" count="2" />
+      <entry feature="ide.settings.Spelling" count="2" />
+      <entry feature="ide.settings.Version_Control" count="1" />
+      <entry feature="ideaapp.started" count="7" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>

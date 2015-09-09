@@ -1,0 +1,33 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.6 (D:\Program Files\Python2.7.6\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="D:\Program Files\Python2.7.6\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar://D:/Program Files/Python2.7.6/Lib/site-packages/MySQL_python-1.2.5-py2.7-win32.egg!/" />
+            <root type="simple" url="jar://D:/Program Files/Python2.7.6/Lib/site-packages/objgraph-2.0.0-py2.7.egg!/" />
+            <root type="simple" url="jar://D:/Program Files/Python2.7.6/Lib/site-packages/xdot-0.6-py2.7.egg!/" />
+            <root type="simple" url="file://D:/Program Files/Python2.7.6/DLLs" />
+            <root type="simple" url="file://D:/Program Files/Python2.7.6/Lib" />
+            <root type="simple" url="file://D:/Program Files/Python2.7.6/Lib/lib-tk" />
+            <root type="simple" url="file://D:/Program Files/Python2.7.6" />
+            <root type="simple" url="file://D:/Program Files/Python2.7.6/Lib/site-packages" />
+            <root type="simple" url="file://D:/Program Files/Python2.7.6/Lib/site-packages/win32" />
+            <root type="simple" url="file://D:/Program Files/Python2.7.6/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://D:/Program Files/Python2.7.6/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm40/system/python_stubs/-1428922123" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

@@ -1,0 +1,26 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="475" y="106" />
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="695" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="390" y="186" />
+    <location key="SettingsEditor.0.0.1366.768" x="144" y="31" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="137" y="22" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1366.768" x="62" y="170" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1366.768" x="178" y="99" />
+    <location key="findTextDialog.0.0.1366.768" x="467" y="126" />
+    <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1366.768" x="408" y="237" />
+    <location key="DiffContextDialog.0.0.1366.768" x="92" y="92" />
+    <location key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1366.768" x="92" y="92" />
+    <location key="#Menus_and_Toolbars.0.0.1366.768" x="459" y="137" />
+    <location key="IgnoreUnversionedDialog.0.0.1366.768" x="474" y="290" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1324" height="195" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1324" height="195" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1324" height="195" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1324" height="195" />
+    <size key="DiffContextDialog.0.0.1366.768" width="1182" height="554" />
+    <size key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0.0.1366.768" width="1182" height="554" />
+    <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" state="300" />
+    <extendedState key="DiffContextDialog" state="0" />
+    <extendedState key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" state="0" />
+  </component>
+</application>

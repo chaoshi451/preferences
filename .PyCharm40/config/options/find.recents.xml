@@ -1,0 +1,8 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>no-js</find>
+      <find>sprite</find>
+    </findStrings>
+  </component>
+</application>
